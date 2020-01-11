@@ -19,7 +19,7 @@ INSTALLATION INSTRUCTIONS
 
 1. Download and extract the latest release zip of BeamNGSimFeedback.
 
-Download: https://github.com/PHARTGAMES/GTA5SimFeedback/tree/master/Releases
+Download: https://github.com/PHARTGAMES/BeamNGSimFeedback/tree/master/Releases
 
 2. Copy the contents of the SimFeedbackPlugin folder within the BeamNGSimFeedback .zip into your SimFeedback root folder.
 
