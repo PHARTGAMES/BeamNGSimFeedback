@@ -3,7 +3,7 @@
 
 ABOUT
 =====
-Beam NG.Drive Plugins for motion telemetry through SimFeedback.
+Beam NG.Drive Plugin for motion telemetry through SimFeedback.
 
 https://opensfx.com/
 
@@ -23,7 +23,7 @@ Download: https://github.com/PHARTGAMES/BeamNGSimFeedback/tree/master/Releases
 
 2. Copy the contents of the SimFeedbackPlugin folder within the BeamNGSimFeedback .zip into your SimFeedback root folder.
 
-3. Within BeamNG.drive 'Options > OTHER' set the following options:
+3. Within BeamNG.drive 'Options > OTHER', set the following options:
   
  * MotionSim enabled [x]
  * IP: 127.0.0.1
