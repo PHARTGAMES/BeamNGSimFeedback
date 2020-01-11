@@ -17,13 +17,17 @@ v1.0 - First release.
 INSTALLATION INSTRUCTIONS 
 =========================
 
-1. Download and extract the latest release zip of BeamNGSimFeedback.
+1. Ensure you have the .NET Framework v4.8 runtime installed.
+
+Download: https://dotnet.microsoft.com/download/dotnet-framework/net48
+
+2. Download and extract the latest release zip of BeamNGSimFeedback.
 
 Download: https://github.com/PHARTGAMES/BeamNGSimFeedback/tree/master/Releases
 
-2. Copy the contents of the SimFeedbackPlugin folder within the BeamNGSimFeedback .zip into your SimFeedback root folder.
+3. Copy the contents of the SimFeedbackPlugin folder within the BeamNGSimFeedback .zip into your SimFeedback root folder.
 
-3. Within BeamNG.drive 'Options > OTHER', set the following options:
+4. Within BeamNG.drive 'Options > OTHER', set the following options:
   
  * MotionSim enabled [x]
  * IP: 127.0.0.1
